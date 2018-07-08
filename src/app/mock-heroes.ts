@@ -12,6 +12,3 @@ export const HEROES: Hero[] = [
     {id: 19, name: 'Dr IQ'},
     {id: 20, name: 'Tornado'},
 ];
-
-
-//  {}  :  ;  ''  ""
